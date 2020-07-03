@@ -1,6 +1,6 @@
 on: 
   pull_request
-name: Automatic Rebase
+name: Automatic Rebase on PR
 jobs:
   rebase:
     name: Rebase
