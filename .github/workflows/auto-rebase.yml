@@ -1,6 +1,6 @@
 on: 
-  pull-request:
-    type: [ opened ]
+  pull_request:
+    types: [ opened ]
 name: Automatic Rebase
 jobs:
   rebase:
